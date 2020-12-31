@@ -13,4 +13,4 @@ I am a recent graduate from the University of Masssachussets Amherst (december 2
 
 --- 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-hall&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-hall&layout=compact&theme=dracula&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
