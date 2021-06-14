@@ -7,7 +7,6 @@ I am a recent graduate from the University of Masssachussets Amherst (december 2
 ### Connect
 
 - <img src="https://raw.githubusercontent.com/Kevin-Hall/kevin-hall/main/instagram.svg" width="20px" align="top"> [`@developerhall`](https://www.instagram.com/developerhall/)
-- <img src="https://raw.githubusercontent.com/Kevin-Hall/kevin-hall/main/twitter.svg" width="20px" align="top"> [`@developer_hall`](https://www.twitter.com/developer_hall/)
 - <img src="https://raw.githubusercontent.com/Kevin-Hall/kevin-hall/main/linkedin.svg" width="20px" align="top"> [`@kevin hall`](https://www.linkedin.com/in/kevin-hall-8b4a8410b/)
 - <img src="https://raw.githubusercontent.com/Kevin-Hall/kevin-hall/main/dribbble.svg" width="20px" align="top"> [`@kevzh`](https://dribbble.com/Kevzh)
 
