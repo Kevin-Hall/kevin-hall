@@ -1,8 +1,6 @@
 # Hello im Kev! - aka Developer Hall
 
-I am a recent graduate from the University of Masssachussets Amherst (december 2020) seeking employment as a software engineer. I prefer to work on mobile (iOS) however I would be more than happy to contribute my wide array of technical skills to a team thats building something unique and meaningful.
-
-> 🌿 Currently building a powerful productivity app called Daypiece. You can beta test it on [Testflight](https://testflight.apple.com/join/PKfXlGsx) & if you want to follow along with development or suggest something you can join [Developer Hall discord](https://discord.com/invite/6UPh8jv)!! :D
+> 🌿 Currently building a powerful productivity app called Daypiece. You can download it here [AppStore](https://apps.apple.com/us/app/daypiece-minimal-planner-all-in-one/id1200331746) & if you want to follow along with development or suggest something you can checkout my links where I share information about my life and this process [Developer Hall links](http://kevhall.live)!! :D
 ---
 ### Connect
 
