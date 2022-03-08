@@ -1,6 +1,5 @@
-# Hello im Kev! - aka Developer Hall
+# Hello im Kev!
 
-> 🌿 Currently building a powerful productivity app called Daypiece. You can download it here [AppStore](https://apps.apple.com/us/app/daypiece-minimal-planner-all-in-one/id1200331746) & if you want to follow along with development or suggest something you can checkout my links where I share information about my life and this process [Developer Hall links](http://kevhall.live)!! :D
 ---
 ### Connect
 
